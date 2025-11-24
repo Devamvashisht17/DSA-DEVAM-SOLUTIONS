@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
