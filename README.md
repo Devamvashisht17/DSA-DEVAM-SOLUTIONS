@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
