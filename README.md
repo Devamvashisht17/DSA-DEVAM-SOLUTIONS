@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0268-missing-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
