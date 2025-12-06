@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0268-missing-number) |
 ## Binary Search
