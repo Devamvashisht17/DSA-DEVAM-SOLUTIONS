@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0242-valid-anagram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0389-find-the-difference) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0389-find-the-difference](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0645-set-mismatch) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Monotonic Stack
 |  |
 | ------- |
