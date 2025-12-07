@@ -1,15 +1,15 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
-        int [] freq= new int[26];
+        HashSet<Character> arr= new HashSet();
+
         for(int i=0;i<sentence.length();i++){
-            freq[sentence.charAt(i) - 'a']++;
-        }
-        for(int i=0;i<freq.length;i++){
-            if(freq[i]==0){
-                return false;
+            char ch= sentence.charAt(i);
+
+            if(ch>='a' && ch <='z'){
+                arr.add(ch);
+
             }
-            
         }
-        return true;
+        return arr.size()==26;
     }
 }
