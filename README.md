@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0389-find-the-difference) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0344-reverse-string) |
 ## Prefix Sum
