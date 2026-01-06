@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 ## String Matching
