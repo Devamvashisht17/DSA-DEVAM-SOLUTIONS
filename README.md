@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0389-find-the-difference) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0007-reverse-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0002-add-two-numbers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
