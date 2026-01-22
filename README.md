@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0231-power-of-two](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0645-set-mismatch) |
 ## Sorting
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0069-sqrtx](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0342-power-of-four) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0024-swap-nodes-in-pairs](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0342-power-of-four) |
 ## String Matching
 |  |
 | ------- |
