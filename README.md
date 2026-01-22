@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0735-asteroid-collision](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0735-asteroid-collision](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0912-sort-an-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2104-sum-of-subarray-ranges](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0496-next-greater-element-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0160-intersection-of-two-linked-lists](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
