@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0503-next-greater-element-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0867-transpose-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0912-sort-an-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0074-search-a-2d-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0867-transpose-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
