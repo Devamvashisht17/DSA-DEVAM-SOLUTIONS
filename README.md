@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0002-add-two-numbers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0342-power-of-four) |
