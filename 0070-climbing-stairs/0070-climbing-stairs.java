@@ -3,8 +3,13 @@ class Solution {
         if(n<=2){
             return n;
         }
-        else{
-            return climbStairs(n-1) + climbStairs(n-2);
+        int a =1, b=2;
+        int fibo;
+        for(int i=3;i<=n;i++){
+            fibo = a+b;
+            a=b;
+            b=fibo;
         }
+        return b;
     }
 }
