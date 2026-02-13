@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0033-search-in-rotated-sorted-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0078-subsets) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0078-subsets) |
 ## Memoization
 |  |
