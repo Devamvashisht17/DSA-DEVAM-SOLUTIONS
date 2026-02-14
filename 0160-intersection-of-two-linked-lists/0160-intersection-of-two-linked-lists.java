@@ -15,17 +15,17 @@ public class Solution {
             return null;
         }
         ListNode a = headA;
-        ListNode b = headB;
+        ListNode b= headB;
 
         while(a!=b){
-            if(a==null){
-                a=headB;
+            if(a ==null){
+                a= headB;
             }
             else{
-                a=a.next;
+                a= a.next;
             }
             if(b==null){
-                b=headA;
+                b= headA;
             }
             else{
                 b=b.next;
