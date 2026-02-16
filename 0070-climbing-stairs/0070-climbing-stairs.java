@@ -3,12 +3,12 @@ class Solution {
         if(n<=2){
             return n;
         }
-        int a =1, b=2;
+        int a=1, b=2;
         int fibo;
         for(int i=3;i<=n;i++){
-            fibo = a+b;
+            fibo =a+b;
             a=b;
-            b=fibo;
+            b= fibo;
         }
         return b;
     }
