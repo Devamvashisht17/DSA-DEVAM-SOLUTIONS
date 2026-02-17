@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0907-sum-of-subarray-minimums](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 ## Bit Manipulation
 |  |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0046-permutations](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 ## Memoization
 |  |
 | ------- |
