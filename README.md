@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0039-combination-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0078-subsets) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0047-permutations-ii) |
 | [0147-insertion-sort-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0039-combination-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
