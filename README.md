@@ -332,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
