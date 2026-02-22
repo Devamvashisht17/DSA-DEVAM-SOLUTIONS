@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0204-count-primes) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0078-subsets](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0287-find-the-duplicate-number) |
