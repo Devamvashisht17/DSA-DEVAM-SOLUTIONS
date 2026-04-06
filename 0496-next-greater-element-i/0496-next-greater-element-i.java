@@ -5,7 +5,7 @@ class Solution {
         Arrays.fill(a,-1);
         Stack<Integer> st= new Stack <>();
         for(int i=0;i<nums2.length;i++){
-            while(!st.isEmpty() && st.peek()< nums2[i]){
+            while(!st.isEmpty() && st.peek() < nums2[i]){
                 a[st.pop()]= nums2[i];
             }
             st.push(nums2[i]);
