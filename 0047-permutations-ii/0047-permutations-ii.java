@@ -4,20 +4,18 @@ class Solution {
         Arrays.sort(nums);
         permute(0, nums, ans);
         return ans;
-
     }
     private void permute(int ind, int []nums, List<List<Integer>> ans){
         List<Integer>ds= new ArrayList<>();
         if(ind == nums.length){
             for(int i=0;i<nums.length;i++){
                 ds.add(nums[i]);
-
             }
-            ans.add(new ArrayList<>(ds));
+            ans.add(ds);
             return;
         }
         HashSet<Integer>set = new HashSet<>();
-
+        
         for(int i=ind;i<nums.length;i++){
             if(set.contains(nums[i])) continue;
             set.add(nums[i]);
