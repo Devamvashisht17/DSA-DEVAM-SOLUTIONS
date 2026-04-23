@@ -15,23 +15,24 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        return dfsheight(root) !=-1;
+        return dfsheight(root)!=-1;
     }
     public int dfsheight(TreeNode root){
-        if(root == null){
+        if(root== null){
             return 0;
         }
-        int leftheight= dfsheight(root.left);
-        if(leftheight ==-1){
+        int lheight= dfsheight(root.left);
+        if(lheight==-1){
             return -1;
         }
-        int rightheight = dfsheight(root.right);
-        if(rightheight ==-1){
+        int rheight= dfsheight(root.right);
+        if(rheight==-1){
             return -1;
         }
-        if(Math.abs(rightheight - leftheight) >1){
-            return -1;
+        if(Math.abs(lheight-rheight)>1){
+            return-1;
         }
-        return Math.max(leftheight, rightheight)+1;
+        return Math.max(lheight, rheight)+1;
+
     }
 }
