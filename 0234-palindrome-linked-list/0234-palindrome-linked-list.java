@@ -10,19 +10,19 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        Stack<Integer> stack =new Stack<>();
+        Stack<Integer> st= new Stack<>();
+
         ListNode temp= head;
-        while(temp  !=null){
-            stack.push(temp.val);
+        while(temp!=null){
+            st.push(temp.val);
             temp=temp.next;
         }
         temp=head;
-
         while(temp!=null){
-            if(temp.val != stack.pop()){
+            if(temp.val!=st.pop()){
                 return false;
             }
-            temp= temp.next;
+            temp=temp.next;
         }
         return true;
     }
