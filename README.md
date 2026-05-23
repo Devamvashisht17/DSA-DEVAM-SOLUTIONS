@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0222-count-complete-tree-nodes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0222-count-complete-tree-nodes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -425,4 +427,5 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
