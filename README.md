@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0125-valid-palindrome](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0389-find-the-difference) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0078-subsets](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 ## Memoization
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0386-lexicographical-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Tree
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
