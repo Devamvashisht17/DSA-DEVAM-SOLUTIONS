@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0386-lexicographical-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0257-binary-tree-paths) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0257-binary-tree-paths) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0102-binary-tree-level-order-traversal](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
