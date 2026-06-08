@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0078-subsets](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -482,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
