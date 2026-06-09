@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0137-single-number-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0238-product-of-array-except-self) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0141-linked-list-cycle](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0268-missing-number) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0075-sort-colors](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0268-missing-number) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Heap (Priority Queue)
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
