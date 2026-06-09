@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0040-combination-sum-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0002-add-two-numbers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0069-sqrtx) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
