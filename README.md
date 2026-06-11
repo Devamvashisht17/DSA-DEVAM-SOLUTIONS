@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2104-sum-of-subarray-ranges](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Monotonic Stack
 |  |
 | ------- |
