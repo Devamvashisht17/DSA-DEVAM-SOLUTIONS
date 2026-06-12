@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0796-rotate-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3798-largest-even-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3798-largest-even-number) |
 ## Array
 |  |
 | ------- |
