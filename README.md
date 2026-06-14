@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0047-permutations-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0338-counting-bits) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0191-number-of-1-bits) |
