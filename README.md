@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0048-rotate-image](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0078-subsets) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | ------- |
 | [0001-two-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
