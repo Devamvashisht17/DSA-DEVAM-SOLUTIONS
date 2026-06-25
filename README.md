@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2104-sum-of-subarray-ranges](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Monotonic Stack
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0645-set-mismatch](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0912-sort-an-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Simulation
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0258-add-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0867-transpose-matrix) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Math
 |  |
 | ------- |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0215-kth-largest-element-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0912-sort-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Matrix
 |  |
 | ------- |
@@ -379,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0455-assign-cookies](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Quickselect
 |  |
 | ------- |
