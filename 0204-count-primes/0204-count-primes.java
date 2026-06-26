@@ -3,14 +3,14 @@ class Solution {
         if(n<=2){
             return 0;
         }
-        boolean [] isPrime = new boolean[n];
+        boolean [] isPrime= new boolean[n];
         for(int i=1;i<n;i++){
-            isPrime[i]= true;
-        } 
+            isPrime[i]=true;
+        }
         for(int i=2;i*i<n;i++){
             if(isPrime[i]){
-                for(int j=i*i;j<n;j=j+i){
-                    isPrime[j]= false;
+                for(int j=i*i;j<n;j+=i){
+                    isPrime[j]=false;
                 }
             }
         }
