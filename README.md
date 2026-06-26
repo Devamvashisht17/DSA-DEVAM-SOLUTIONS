@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0048-rotate-image](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0860-lemonade-change) |
