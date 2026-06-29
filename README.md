@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0118-pascals-triangle](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
 | [2063-vowels-of-all-substrings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2063-vowels-of-all-substrings) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0258-add-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0343-integer-break) |
 | [0504-base-7](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0504-base-7) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
