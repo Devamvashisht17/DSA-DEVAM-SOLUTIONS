@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2104-sum-of-subarray-ranges](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2761-prime-pairs-with-target-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3895-count-digit-appearances](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3895-count-digit-appearances) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2119-a-number-after-a-double-reversal](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2119-a-number-after-a-double-reversal) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2427-number-of-common-factors](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2427-number-of-common-factors) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2761-prime-pairs-with-target-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3894-traffic-signal-color](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3894-traffic-signal-color) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | ------- |
 | [0204-count-primes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2427-number-of-common-factors) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2761-prime-pairs-with-target-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0258-add-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2427-number-of-common-factors) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2761-prime-pairs-with-target-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Backtracking
 |  |
