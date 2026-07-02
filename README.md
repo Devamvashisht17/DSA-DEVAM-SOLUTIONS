@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0136-single-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0204-count-primes) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0118-pascals-triangle](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0392-is-subsequence) |
