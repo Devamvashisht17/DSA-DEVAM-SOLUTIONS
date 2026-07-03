@@ -5,16 +5,14 @@ class Solution {
         long sum=0;
 
         for(int i=0;i<nums.length;i++){
-            sum=sum+nums[i];
-
-            if(sum>max){
-                max=sum;
-            }
-            if(sum<0){
-                sum=0;
-            }
+            sum=sum+ nums[i];
+        if(sum>max){
+            max=sum;
         }
-        return (int) max;
-
+        if(sum<0){
+            sum=0;
+        }
+        }
+        return (int)max;
     }
 }
