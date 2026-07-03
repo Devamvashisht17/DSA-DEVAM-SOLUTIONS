@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0137-single-number-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0204-count-primes) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0069-sqrtx](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
