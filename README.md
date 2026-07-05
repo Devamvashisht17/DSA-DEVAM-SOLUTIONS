@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1021-remove-outermost-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [2063-vowels-of-all-substrings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2063-vowels-of-all-substrings) |
 | [3798-largest-even-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3798-largest-even-number) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2404-most-frequent-even-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2404-most-frequent-even-element) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0169-majority-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2404-most-frequent-even-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2404-most-frequent-even-element) |
 ## Heap (Priority Queue)
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Combinatorics
 |  |
 | ------- |
