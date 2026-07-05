@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2761-prime-pairs-with-target-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2761-prime-pairs-with-target-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3099-harshad-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3099-harshad-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3894-traffic-signal-color](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3895-count-digit-appearances) |
