@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1019-next-greater-node-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2104-sum-of-subarray-ranges](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2063-vowels-of-all-substrings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2063-vowels-of-all-substrings) |
 | [3798-largest-even-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3798-largest-even-number) |
 | [3894-traffic-signal-color](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3894-traffic-signal-color) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0258-add-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0867-transpose-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3894-traffic-signal-color](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3894-traffic-signal-color) |
