@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3099-harshad-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3099-harshad-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3908-valid-digit-number) |
