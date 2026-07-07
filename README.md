@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0977-squares-of-a-sorted-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1991-find-the-middle-index-in-array) |
