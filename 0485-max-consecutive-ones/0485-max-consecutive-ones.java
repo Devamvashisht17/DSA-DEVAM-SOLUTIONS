@@ -13,7 +13,6 @@ class Solution {
             else{
                 count=0;
             }
-
         }
         return lar_count;
     }
