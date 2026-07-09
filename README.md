@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0485-max-consecutive-ones](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0724-find-pivot-index) |
@@ -672,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
