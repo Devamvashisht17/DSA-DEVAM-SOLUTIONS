@@ -12,9 +12,9 @@ class Solution {
             }
             else{
                 count--;
-            }
+            }  
         }
-        int count1=0;
+        int count1=1;
         for(int i=0;i<nums.length;i++){
             if(nums[i]==ele){
                 count1++;
@@ -24,5 +24,6 @@ class Solution {
             return ele;
         }
         return -1;
+
     }
 }
