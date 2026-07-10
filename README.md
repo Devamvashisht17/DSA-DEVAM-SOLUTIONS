@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0392-is-subsequence](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0504-base-7](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0647-palindromic-substrings) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0387-first-unique-character-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0645-set-mismatch) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0713-subarray-product-less-than-k) |
