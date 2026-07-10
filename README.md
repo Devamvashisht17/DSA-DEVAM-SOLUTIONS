@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0977-squares-of-a-sorted-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0343-integer-break](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0504-base-7) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0724-find-pivot-index](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1991-find-the-middle-index-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1991-find-the-middle-index-in-array) |
 ## Divide and Conquer
@@ -684,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0904-fruit-into-baskets](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
