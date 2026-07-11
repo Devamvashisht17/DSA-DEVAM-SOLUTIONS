@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0912-sort-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1796-second-largest-digit-in-a-string) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0169-majority-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2404-most-frequent-even-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2404-most-frequent-even-element) |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0713-subarray-product-less-than-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
