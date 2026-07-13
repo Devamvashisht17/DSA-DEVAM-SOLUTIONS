@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2427-number-of-common-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2761-prime-pairs-with-target-sum) |
 ## Number Theory
