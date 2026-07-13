@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0645-set-mismatch](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [1009-complement-of-base-10-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2595-number-of-even-and-odd-bits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2595-number-of-even-and-odd-bits) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
