@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1004-max-consecutive-ones-iii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0504-base-7](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0504-base-7) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
