@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0304-range-sum-query-2d-immutable](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0496-next-greater-element-i) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0338-counting-bits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0907-sum-of-subarray-minimums) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0912-sort-an-array) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0055-jump-game](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0860-lemonade-change) |
