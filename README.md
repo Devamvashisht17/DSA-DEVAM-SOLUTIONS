@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0485-max-consecutive-ones](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0525-contiguous-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0713-subarray-product-less-than-k) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0409-longest-palindrome](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0238-product-of-array-except-self](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0304-range-sum-query-2d-immutable) |
+| [0525-contiguous-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
