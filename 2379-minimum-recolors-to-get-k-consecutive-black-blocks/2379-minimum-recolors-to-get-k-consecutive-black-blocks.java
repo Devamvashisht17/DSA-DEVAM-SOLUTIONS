@@ -3,19 +3,22 @@ class Solution {
         int count=0;
         int l=0;
         int min= Integer.MAX_VALUE;
-        for(int right=0;right<blocks.length();right++){
-            if(blocks.charAt(right)=='W'){
+
+        for(int i=0;i<blocks.length();i++){
+            if(blocks.charAt(i)=='W'){
                 count++;
             }
-            if(right-l+1>k){
+            if(i-l+1>k){
                 if(blocks.charAt(l)=='W'){
                     count--;
+                
                 }
                 l++;
             }
-            if(right-l+1==k){
-                min= Math.min(min, count);
+            if(i-l+1 == k){
+                  min= Math.min(min, count);
             }
+          
         }
         return min;
     }
