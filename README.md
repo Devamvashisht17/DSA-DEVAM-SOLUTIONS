@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1021-remove-outermost-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1446-consecutive-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Combinatorics
