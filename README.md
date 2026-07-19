@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0303-range-sum-query-immutable](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0413-arithmetic-slices](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0455-assign-cookies) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0338-counting-bits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0413-arithmetic-slices) |
 | [0435-non-overlapping-intervals](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
