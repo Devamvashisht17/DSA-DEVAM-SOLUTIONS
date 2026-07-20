@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0048-rotate-image](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0867-transpose-matrix) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0240-search-a-2d-matrix-ii) |
