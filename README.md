@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0485-max-consecutive-ones](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0409-longest-palindrome](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0567-permutation-in-string) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0343-integer-break](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0371-sum-of-two-integers) |
 | [0504-base-7](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0504-base-7) |
+| [0523-continuous-subarray-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0238-product-of-array-except-self](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0304-range-sum-query-2d-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0713-subarray-product-less-than-k) |
