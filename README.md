@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3536-maximum-product-of-two-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3099-harshad-number) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3536-maximum-product-of-two-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3894-traffic-signal-color) |
