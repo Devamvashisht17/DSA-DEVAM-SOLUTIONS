@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2395-find-subarrays-with-equal-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2761-prime-pairs-with-target-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2395-find-subarrays-with-equal-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3668-restore-finishing-order](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2427-number-of-common-factors](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2427-number-of-common-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2523-closest-prime-numbers-in-range) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2761-prime-pairs-with-target-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2769-find-the-maximum-achievable-number) |
@@ -602,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0258-add-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2427-number-of-common-factors) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2523-closest-prime-numbers-in-range) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2761-prime-pairs-with-target-sum) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
