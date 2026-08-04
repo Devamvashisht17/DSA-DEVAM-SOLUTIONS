@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2553-separate-the-digits-in-an-array) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2761-prime-pairs-with-target-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2553-separate-the-digits-in-an-array) |
 | [3894-traffic-signal-color](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
