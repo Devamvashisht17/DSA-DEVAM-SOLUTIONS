@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3099-harshad-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3536-maximum-product-of-two-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1291-sequential-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2427-number-of-common-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2761-prime-pairs-with-target-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
