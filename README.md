@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0992-subarrays-with-k-different-integers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
+| [1046-last-stone-weight](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0215-kth-largest-element-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Matrix
