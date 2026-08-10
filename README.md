@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0402-remove-k-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
+| [0459-repeated-substring-pattern](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0647-palindromic-substrings) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0796-rotate-string) |
 ## Trie
 |  |
@@ -824,4 +826,12 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
