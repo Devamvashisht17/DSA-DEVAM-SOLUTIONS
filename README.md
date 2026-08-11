@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0525-contiguous-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0645-set-mismatch) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0414-third-maximum-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0912-sort-an-array) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
@@ -615,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0409-longest-palindrome](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
