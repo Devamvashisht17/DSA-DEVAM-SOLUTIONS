@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2063-vowels-of-all-substrings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2063-vowels-of-all-substrings) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [3163-string-compression-iii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3163-string-compression-iii) |
 | [3798-largest-even-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3798-largest-even-number) |
 | [3894-traffic-signal-color](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3894-traffic-signal-color) |
 ## Array
