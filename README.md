@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0567-permutation-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0796-rotate-string) |
 ## Trie
 |  |
@@ -837,12 +839,18 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0686-repeated-string-match) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0455-assign-cookies) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
