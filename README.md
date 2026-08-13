@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0131-palindrome-partitioning](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0344-reverse-string) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0268-missing-number) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0050-powx-n](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0342-power-of-four) |
