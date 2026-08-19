@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3364-minimum-positive-sum-subarray) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3668-restore-finishing-order](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3895-count-digit-appearances](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3895-count-digit-appearances) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3668-restore-finishing-order](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Monotonic Stack
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Quickselect
 |  |
 | ------- |
