@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1004-max-consecutive-ones-iii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0645-set-mismatch](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0258-add-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0867-transpose-matrix) |
+| [1094-car-pooling](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1094-car-pooling) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Matrix
@@ -541,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0930-binary-subarrays-with-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [1094-car-pooling](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1094-car-pooling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1991-find-the-middle-index-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1991-find-the-middle-index-in-array) |
