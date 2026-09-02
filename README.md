@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3668-restore-finishing-order](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3894-traffic-signal-color](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3908-valid-digit-number) |
