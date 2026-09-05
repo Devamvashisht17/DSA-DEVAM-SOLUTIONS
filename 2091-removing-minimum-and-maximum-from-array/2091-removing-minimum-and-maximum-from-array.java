@@ -17,10 +17,10 @@ class Solution {
             min= max;
             max=temp;
         }
-        int a = max+1;
-        int b= n- min;
+        int a = max+1;  // front
+        int b= n- min; //back
 
-        int c= min+1 + n-max;
+        int c= min+1 + n-max; // both
 
         return Math.min(a,Math.min(b,c));
     }
