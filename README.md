@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2864-maximum-odd-binary-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2864-maximum-odd-binary-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3163-string-compression-iii) |
+| [3227-vowels-game-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3227-vowels-game-in-a-string) |
 | [3798-largest-even-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3798-largest-even-number) |
 | [3894-traffic-signal-color](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3894-traffic-signal-color) |
 ## Array
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2864-maximum-odd-binary-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3099-harshad-number) |
+| [3227-vowels-game-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3360-stone-removal-game) |
@@ -908,4 +910,12 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0686-repeated-string-match) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3227-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
