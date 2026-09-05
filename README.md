@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2864-maximum-odd-binary-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2864-maximum-odd-binary-number) |
