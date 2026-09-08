@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0409-longest-palindrome](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0567-permutation-in-string) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0409-longest-palindrome](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0525-contiguous-array) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0389-find-the-difference](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0229-majority-element-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1854-maximum-population-year](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1854-maximum-population-year) |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1094-car-pooling) |
@@ -600,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
