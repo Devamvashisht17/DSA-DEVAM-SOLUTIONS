@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [3718-smallest-missing-multiple-of-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1991-find-the-middle-index-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1991-find-the-middle-index-in-array) |
 | [2848-points-that-intersect-with-cars](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2848-points-that-intersect-with-cars) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3364-minimum-positive-sum-subarray) |
+| [3903-smallest-stable-index-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
