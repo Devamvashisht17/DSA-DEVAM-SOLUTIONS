@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [3903-smallest-stable-index-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3925-concatenate-array-with-reverse) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Hash Table
 |  |
 | ------- |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Prefix Sum
 |  |
 | ------- |
