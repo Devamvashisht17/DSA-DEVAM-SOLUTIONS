@@ -447,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2427-number-of-common-factors](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2523-closest-prime-numbers-in-range) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2761-prime-pairs-with-target-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1903-largest-odd-number-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2864-maximum-odd-binary-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2864-maximum-odd-binary-number) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
