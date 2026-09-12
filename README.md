@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3668-restore-finishing-order](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3843-first-element-with-unique-frequency](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3843-first-element-with-unique-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3903-smallest-stable-index-i) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3668-restore-finishing-order](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3843-first-element-with-unique-frequency](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3843-first-element-with-unique-frequency) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2404-most-frequent-even-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2404-most-frequent-even-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3843-first-element-with-unique-frequency](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3843-first-element-with-unique-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
