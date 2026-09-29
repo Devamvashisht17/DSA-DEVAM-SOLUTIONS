@@ -6,6 +6,9 @@ class Solution {
         if(n != m){
             return false;
         }
+        if(n==1){
+            return source[0] == target[0];
+        }
 
         long sum1= 0;
         long sum2=0;
