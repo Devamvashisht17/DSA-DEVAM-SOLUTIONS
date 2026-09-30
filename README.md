@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0022-generate-parentheses) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | ------- |
 | [0001-two-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0050-powx-n) |
