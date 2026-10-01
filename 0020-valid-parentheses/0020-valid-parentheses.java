@@ -10,7 +10,6 @@ class Solution {
                 if(st.isEmpty()){
                     return false;
                 }
-
                 char c = st.pop();
                 if(c == '[' && ch == ']') continue;
                 if(c == '{' && ch == '}') continue;
