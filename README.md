@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0151-reverse-words-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0344-reverse-string) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0392-is-subsequence) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0204-count-primes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0342-power-of-four) |
@@ -689,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0224-basic-calculator](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0342-power-of-four) |
 ## String Matching
 |  |
@@ -767,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 ## Database
 |  |
 | ------- |
@@ -936,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0022-generate-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
