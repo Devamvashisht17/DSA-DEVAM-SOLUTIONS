@@ -4,13 +4,13 @@ class Solution {
         int max=0;
 
         for(int i=0;i<s.length();i++){
-            char c=s.charAt(i);
-
-            if(c=='('){
+            char ch =s.charAt(i);
+            
+            if(ch == '('){
                 min++;
                 max++;
             }
-            else if(c ==')'){
+            else if(ch == ')'){
                 min--;
                 max--;
             }
