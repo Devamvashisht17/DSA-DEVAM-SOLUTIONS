@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2553-separate-the-digits-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2553-separate-the-digits-in-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2761-prime-pairs-with-target-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2848-points-that-intersect-with-cars](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2848-points-that-intersect-with-cars) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1291-sequential-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1291-sequential-digits) |
 | [2427-number-of-common-factors](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2427-number-of-common-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2761-prime-pairs-with-target-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
