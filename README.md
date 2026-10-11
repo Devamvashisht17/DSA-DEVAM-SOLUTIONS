@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2553-separate-the-digits-in-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2761-prime-pairs-with-target-sum) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2404-most-frequent-even-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2404-most-frequent-even-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2540-minimum-common-value](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2540-minimum-common-value) |
 | [2848-points-that-intersect-with-cars](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2848-points-that-intersect-with-cars) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1004-max-consecutive-ones-iii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2540-minimum-common-value) |
 ## Counting
 |  |
 | ------- |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2540-minimum-common-value) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Prefix Sum
 |  |
