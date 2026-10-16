@@ -1016,4 +1016,8 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
