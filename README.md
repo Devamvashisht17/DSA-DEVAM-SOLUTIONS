@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2104-sum-of-subarray-ranges) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1331-rank-transform-of-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0713-subarray-product-less-than-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2540-minimum-common-value) |
 ## Counting
