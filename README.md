@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2864-maximum-odd-binary-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2864-maximum-odd-binary-number) |
+| [2942-find-words-containing-character](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3163-string-compression-iii) |
 | [3227-vowels-game-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3227-vowels-game-in-a-string) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2778-sum-of-squares-of-special-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2848-points-that-intersect-with-cars](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2942-find-words-containing-character](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2942-find-words-containing-character) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3364-minimum-positive-sum-subarray) |
