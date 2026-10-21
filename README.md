@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2848-points-that-intersect-with-cars](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2942-find-words-containing-character) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3364-minimum-positive-sum-subarray) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2848-points-that-intersect-with-cars](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3668-restore-finishing-order](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3668-restore-finishing-order) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1009-complement-of-base-10-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2595-number-of-even-and-odd-bits) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3370-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
