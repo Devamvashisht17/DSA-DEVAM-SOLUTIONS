@@ -1077,4 +1077,8 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0706-design-hashmap) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
