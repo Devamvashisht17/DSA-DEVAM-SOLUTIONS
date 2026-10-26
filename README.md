@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1094-car-pooling](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1250-check-if-it-is-a-good-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0628-maximum-product-of-three-numbers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1175-prime-arrangements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1175-prime-arrangements) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1250-check-if-it-is-a-good-array) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1323-maximum-69-number) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | ------- |
 | [0204-count-primes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0258-add-digits) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2427-number-of-common-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -1032,11 +1035,13 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2427-number-of-common-factors) |
 ## Primality Test
@@ -1054,4 +1059,12 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | ------- |
 | [0204-count-primes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0204-count-primes) |
 | [1175-prime-arrangements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1175-prime-arrangements) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
