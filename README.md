@@ -1032,10 +1032,12 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2427-number-of-common-factors) |
 ## Primality Test
 |  |
