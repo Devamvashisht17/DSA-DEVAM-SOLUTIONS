@@ -9,11 +9,12 @@ class Solution {
             }
             for(int i=pivot+1;i<nums.length;i++){
                 rightsum+=nums[i];
-            }
-            if(leftsum==rightsum){
-                return pivot;
-            }
+        
         }
+        if(rightsum==leftsum){
+            return pivot;
+        }
+    }
         return -1;
     }
 }
