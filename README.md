@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0125-valid-palindrome](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0069-sqrtx](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0224-basic-calculator) |
