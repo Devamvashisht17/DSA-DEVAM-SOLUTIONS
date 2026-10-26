@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0232-implement-queue-using-stacks](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0304-range-sum-query-2d-immutable) |
+| [0706-design-hashmap](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0643-maximum-average-subarray-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0735-asteroid-collision) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0567-permutation-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0706-design-hashmap](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0234-palindrome-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0328-odd-even-linked-list) |
+| [0706-design-hashmap](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1069,4 +1073,8 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1250-check-if-it-is-a-good-array) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
