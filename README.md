@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1732-find-the-highest-altitude](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1854-maximum-population-year](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1854-maximum-population-year) |
@@ -645,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1109-corporate-flight-bookings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1732-find-the-highest-altitude](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1854-maximum-population-year) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1991-find-the-middle-index-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1991-find-the-middle-index-in-array) |
