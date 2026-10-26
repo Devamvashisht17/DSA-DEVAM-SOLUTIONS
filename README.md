@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0504-base-7](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
+| [1175-prime-arrangements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1175-prime-arrangements) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -1040,12 +1041,15 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0204-count-primes) |
+| [1175-prime-arrangements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1175-prime-arrangements) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0204-count-primes) |
+| [1175-prime-arrangements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1175-prime-arrangements) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0204-count-primes) |
+| [1175-prime-arrangements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
