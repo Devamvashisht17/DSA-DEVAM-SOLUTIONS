@@ -7,8 +7,8 @@ class Solution {
             prefix=prefix*nums[i];
         }
         for(int j=nums.length-1;j>=0;j--){
-            arr[j]=arr[j]*suffix;
-            suffix= suffix*nums[j];
+            arr[j]=arr[j]* suffix;
+            suffix=suffix*nums[j];
         }
         return arr;
     }
