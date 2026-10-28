@@ -11,8 +11,7 @@ class Solution {
             }
             hash[s.charAt(i)]=1;
             int len= i-left+1;
-            maxlen= Math.max(len, maxlen);
-
+            maxlen= Math.max(maxlen, len);
         }
         return maxlen;
     }
