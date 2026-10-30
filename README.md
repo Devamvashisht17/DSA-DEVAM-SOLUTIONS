@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0343-integer-break) |
