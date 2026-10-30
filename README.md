@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0045-jump-game-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0119-pascals-triangle-ii) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0029-divide-two-integers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0070-climbing-stairs) |
@@ -984,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0062-unique-paths) |
 | [2063-vowels-of-all-substrings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2063-vowels-of-all-substrings) |
 ## Bracket Sequences
 |  |
