@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0070-climbing-stairs](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0171-excel-sheet-column-number) |
+| [0189-rotate-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0224-basic-calculator) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0151-reverse-words-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0283-move-zeroes) |
