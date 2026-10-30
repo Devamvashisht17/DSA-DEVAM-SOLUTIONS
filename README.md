@@ -1009,11 +1009,13 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0686-repeated-string-match) |
 ## Quicksort
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0686-repeated-string-match) |
 ## Brainteaser
 |  |
