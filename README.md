@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1248-count-number-of-nice-subarrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1512-number-of-good-pairs](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1323-maximum-69-number) |
+| [1512-number-of-good-pairs](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -570,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0387-first-unique-character-in-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0992-subarrays-with-k-different-integers) |
+| [1512-number-of-good-pairs](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1854-maximum-population-year](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1854-maximum-population-year) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
