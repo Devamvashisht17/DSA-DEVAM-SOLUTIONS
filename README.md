@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0414-third-maximum-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0494-target-sum) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0342-power-of-four](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0628-maximum-product-of-three-numbers) |
