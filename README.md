@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0977-squares-of-a-sorted-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0713-subarray-product-less-than-k](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2540-minimum-common-value) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [0876-middle-of-the-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
