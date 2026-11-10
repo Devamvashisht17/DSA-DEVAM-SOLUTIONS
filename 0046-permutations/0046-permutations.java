@@ -1,27 +1,28 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        recurpermute(0, nums, ans);
+        List<List<Integer>> ans= new ArrayList<>();
+        List<Integer> ds= new ArrayList<>();
+
+        boolean[] freq= new boolean[nums.length];
+        helper(nums, ans, ds, freq);
+
         return ans;
     }
-    public void recurpermute(int ind, int [] nums, List<List<Integer>> ans){
-        if(ind== nums.length){
-        List<Integer> ds= new ArrayList<>();
-        for(int i=0;i<nums.length;i++){
-            ds.add(nums[i]);
+    public void helper(int[] nums, List<List<Integer>> ans, List<Integer> ds, boolean [] freq){
+        if(ds.size()  == nums.length){
+            ans.add(new ArrayList<>(ds));
+            return;
         }
-        ans.add(ds);
-        return;
-    }
-    for(int i=ind;i<nums.length;i++){
-        swap(i, ind, nums);
-        recurpermute(ind+1, nums, ans);
-        swap(i, ind, nums);
-    }
-    }
-    public void swap(int i, int j,int [] nums){
-        int temp= nums[i];
-        nums[i]= nums[j];
-        nums[j]= temp;
+        for(int i=0;i<nums.length;i++){
+            if(!freq[i]){
+                freq[i] = true;
+                ds.add(nums[i]);
+
+                helper(nums, ans, ds, freq);
+
+                ds.remove(ds.size()-1);
+                freq[i] = false;
+            }
+        }
     }
 }
