@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2848-points-that-intersect-with-cars](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2942-find-words-containing-character) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
