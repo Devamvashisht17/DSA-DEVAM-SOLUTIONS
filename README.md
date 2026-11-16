@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1903-largest-odd-number-in-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2063-vowels-of-all-substrings](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2063-vowels-of-all-substrings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2864-maximum-odd-binary-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2864-maximum-odd-binary-number) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2553-separate-the-digits-in-an-array) |
 | [3360-stone-removal-game](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3360-stone-removal-game) |
