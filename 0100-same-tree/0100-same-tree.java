@@ -3,9 +3,7 @@
  * public class TreeNode {
  *     int val;
  *     TreeNode left;
- *     TreeNode right;890
- ]
- ]
+ *     TreeNode right;
  *     TreeNode() {}
  *     TreeNode(int val) { this.val = val; }
  *     TreeNode(int val, TreeNode left, TreeNode right) {
@@ -17,9 +15,9 @@
  */
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        if(p==null || q==null){
-            return p==q;
+        if(p== null || q==null){
+            return (p==q);
         }
-        return (p.val==q.val) && isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
+        return (p.val == q.val) && isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
     }
 }
