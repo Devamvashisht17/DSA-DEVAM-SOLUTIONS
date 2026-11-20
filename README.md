@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! (https://github.
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2864-maximum-odd-binary-number](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2864-maximum-odd-binary-number) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2942-find-words-containing-character](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/Devamvashisht17/DSA-DEVAM-SOLUTIONS/tree/master/3163-string-compression-iii) |
