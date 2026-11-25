@@ -3,8 +3,7 @@
  * public class TreeNode {
  *     int val;
  *     TreeNode left;
- *     TreeNode right;0
- 
+ *     TreeNode right;
  *     TreeNode() {}
  *     TreeNode(int val) { this.val = val; }
  *     TreeNode(int val, TreeNode left, TreeNode right) {
@@ -16,39 +15,37 @@
  */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> result= new ArrayList<>();
-        Queue<TreeNode> q = new LinkedList<>();
+        List<List<Integer>> list= new ArrayList<>();
 
-        boolean leftToRight= true;
+        Queue<TreeNode> q= new LinkedList<>();
 
         if(root==null){
-            return result;
+            return list;
         }
-        q.add(root);
-
+        
+        q.offer(root);
+        int count=0;
         while(!q.isEmpty()){
-            List<Integer> list= new ArrayList<>();
             int size=q.size();
-
-            while(size>0){
-                TreeNode curr= q.remove();
-
-                list.add(curr.val);
-                if(curr.left != null){
-                    q.add(curr.left);
-                }
-                if(curr.right!=null){
-                    q.add(curr.right);
+            List<Integer> level= new ArrayList<>();
+            for(int i=0;i<size;i++){
+                TreeNode node = q.remove();
+                level.add(node.val);
+                
+                if(node.left != null){
+                    q.offer(node.left);
 
                 }
-                size--;
+                if(node.right !=null){
+                    q.offer(node.right);
+                }
             }
-            if(!leftToRight){
-                Collections.reverse(list);
+            if(count %2==1){
+                Collections.reverse(level);
             }
-            result.add(list);
-            leftToRight=!leftToRight;
+            list.add(level);
+            count++;
         }
-        return result;
+        return list;
     }
 }
